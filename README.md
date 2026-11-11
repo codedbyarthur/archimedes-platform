@@ -51,3 +51,5 @@ Archimedes is currently in its early development and validation stage. The ideas
 ---
 
 *🚧Archimedes is a work in progress.🚧*
+
+Copyright © 2026 Archimedes. All rights reserved.
